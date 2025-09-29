@@ -63,5 +63,5 @@ The analysis focuses on understanding survival patterns based on different attri
 - Heatmap  
 
 ## Deliverables  
-- **Jupyter Notebook** → Code & visualizations  
+- **Google Colab** → Code & visualizations  
 - **PDF Report** → Observations & summary findings
